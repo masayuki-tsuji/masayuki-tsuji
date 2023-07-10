@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=masayuki-tsuji&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masayuki-tsuji" />
-</a>
+
+![github-header-image](https://github.com/masayuki-tsuji/masayuki-tsuji/assets/32785527/63a38927-f008-4f1b-97d7-548354426425)
+
+I love [vspo](https://vspo.jp/).
